@@ -7,7 +7,6 @@
  *     docunation <file.c>              # Document a single file
  *     docunation -j <file.c>           # Output JSON
  *     docunation -h <file.c>           # Output HTML
- *     docunation -a <num>              # Show axiom documentation
  * 
  * Extracts:
  *     - Functions (signatures, docstrings from preceding comments)
