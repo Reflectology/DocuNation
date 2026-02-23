@@ -21,7 +21,6 @@ Optional: wrap this in CMake or a container build to keep the workflow consisten
 ./docunation path/to/file.c          # Pretty text output
 ./docunation -j path/to/file.c       # JSON document on stdout
 ./docunation -h path/to/file.c       # HTML page on stdout
-./docunation -a 40                   # Show axiom 40 reference text
 ```
 
 ### Bulk Documentation
